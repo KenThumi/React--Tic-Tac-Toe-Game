@@ -1,4 +1,4 @@
-# React Tic Tac Toe Game
+# Tic Tac Toe Game (React/JavaScript)
 ## Setup instructions
 Below are steps to follow:
 1. Open cli, navigate to your project folder and clone the project: 
